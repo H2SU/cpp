@@ -66,5 +66,14 @@
     <ClCompile Include="chap9_practice2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="chap10_practice1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="chap11_practice1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="chap11_practice3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
